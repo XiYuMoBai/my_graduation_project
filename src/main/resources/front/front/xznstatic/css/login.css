@@ -121,7 +121,7 @@ div.reg form p.txtL a {
     text-align: right;
 }
 
-.reg p.txt a, .login p.txt a, {
+.reg p.txt a, .login p.txt a {
     color: #666;
     text-decoration: underline;
 }
