@@ -16,7 +16,7 @@ import com.entity.view.DiscusszuixinxianluView;
  * 
  * @author 
  * @email 
- * @date 2021-03-03 15:14:00
+ * @date 2025-03-03 15:14:00
  */
 public interface DiscusszuixinxianluDao extends BaseMapper<DiscusszuixinxianluEntity> {
 	
